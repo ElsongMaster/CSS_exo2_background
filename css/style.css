@@ -52,12 +52,16 @@ h3 {
 
 /* début exo 02 background*/
 .bg-1 {
+  background: linear-gradient(to bottom, rgb(255, 91, 25), rgb(0, 251, 92));
 }
 .bg-2 {
+  background: radial-gradient(rgb(255, 91, 25), rgb(0, 251, 92));
 }
 .bg-3 {
+  background: linear-gradient(to left, rgb(255, 91, 25), rgb(0, 251, 92));
 }
 .bg-4 {
+  background: linear-gradient(to right, rgb(255, 91, 25), rgb(0, 251, 92));
 }
 /* fin exo 02 background*/
 
