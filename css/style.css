@@ -87,11 +87,19 @@ h3 {
 /* fin exo 03 background-position*/
 
 /* début exo 04 background-repeat*/
+.img-5,
+.img-6,
+.img-7 {
+  background-image: url(../images/bg_image_petite.jpg);
+}
 .img-5 {
+  background-repeat: no-repeat;
 }
 .img-6 {
+  background-repeat: repeat-x;
 }
 .img-7 {
+  background-repeat: repeat-y;
 }
 /* fin exo 04 background-repeat*/
 
