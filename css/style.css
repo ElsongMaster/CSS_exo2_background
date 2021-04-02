@@ -104,13 +104,25 @@ h3 {
 /* fin exo 04 background-repeat*/
 
 /* début exo 05 background-size*/
+.img-8,
+.img-9,
+.img-10,
+.img-11 {
+  background-image: url(../images/bg_image_petite.jpg);
+}
 .img-8 {
+  background-repeat: repeat;
+  background-size: 50px 50px;
 }
 .img-9 {
+  background-repeat: repeat;
+  background-size: 100px 200px;
 }
 .img-10 {
+  background-size: cover;
 }
 .img-11 {
+  background-size: contain;
 }
 /* fin exo 05 background-size*/
 
